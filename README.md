@@ -15,7 +15,7 @@ Build.com assement project created by Sagar Vasekar<br />
 <b>Completed</b> - Make the tests work with multiple browsers (Chrome, Safari, etc.)<br />
 <br />
 <b>More bonus points (be impressive):</b><br />
-<b>Completd for for both, tested for Android</b> - Make the tests work with Appium: using Safari on iOS and/or Chrome on Android.<br /></b>
-Notes:<br />
+<b>Completd for for both, tested for Android</b> - Make the tests work with Appium: using Safari on iOS and/or Chrome on Android.<br /><br />
+<b>Notes:</b><br />
 Ignore/skip CAPTCHA page (if encountered), submit code as if it does not exist or wait for user to complete it.<br />
 Take your time.<br />
