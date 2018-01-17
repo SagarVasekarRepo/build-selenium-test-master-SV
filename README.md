@@ -1,7 +1,7 @@
 # build-selenium-test-master
 Build.com assement project created by Sagar Vasekar
 
-est Assessment for Build.com Automation Engineers
+Test Assessment for Build.com Automation Engineers
 
 Basic Requirements:
 
